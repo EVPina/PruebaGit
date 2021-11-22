@@ -1,4 +1,10 @@
+header{
+    background: antiquewhite;
+}
+
 body{
     text-align: center;
     color: blueviolet;
+    border: solid 1px black;
+    padding: 0 12%;
 }
